@@ -1,0 +1,2 @@
+class UpdateLatitudeAndLogitude < ApplicationRecord
+end
